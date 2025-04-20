@@ -1,0 +1,63 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Spotlight
+*.Spotlight-V100
+
+# Trash
+.Trashes
+
+# Icon
+Icon?
+
+# macOS specific metadata
+._*
+
+# Thumbnails
+._.Thumbs
+
+# Files that might appear on network volumes
+.Spotlight-V100
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.apdisk
+
+# Xcode (если используется)
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+DerivedData/
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+
+# SwiftPM
+.build/
+
+# Swift Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# SPM
+Packages/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+
+# Firebase
+GoogleService-Info.plist
+
+# Env
+.env
